@@ -1,6 +1,12 @@
-# Hello, World!
 
-![Header Image](header-image.png)
+
+<div align="center">
+  
+  # Hello, World!
+  ![Header Image](Galaxy2.png)
+
+</div>
+
 Welcome to my GitHub! I'm  Marty, a passionate software engineer with a love for technology and exploring new projects. This README serves as an introduction to who I am and what I'm all about.
 * 😄 Pronouns: He/Him
 * 🌱 I’m currently learning how this github thing works
