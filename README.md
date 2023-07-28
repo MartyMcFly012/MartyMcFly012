@@ -52,7 +52,7 @@ I'm a software engineer based in Iowa and Arizona. My journey into coding starte
 - 🌐 Building web applications.
   
 ## Favorite superhero:
-* ⚡ The flash ⚡ 
+* The Black Panther 🙅🏿🐈‍⬛👨🏿‍🦱
 
 
 ## Email me
